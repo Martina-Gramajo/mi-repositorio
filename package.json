@@ -1,7 +1,7 @@
 {
-  "name": "mi-aplicacion",
+  "name": "mi-app",
   "version": "1.0.0",
-  "description": "Aplicación web simple",
+  "description": "Aplicación web",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
